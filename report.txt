@@ -1,0 +1,22 @@
+
+Отчёт о состоянии системы:
+Пользователи системы: ['root', 'systemd+', 'avahi', 'message+', 'syslog', 'rtkit', 'colord', 'whoopsie', 'kernoops', 'karina', None]
+Процессов запущено: 262
+Пользовательских процессов:
+       user  cnt_proccess
+0      root           148
+1    karina           102
+2  systemd+             2
+3     avahi             2
+4  kernoops             2
+5  message+             1
+6    syslog             1
+7     rtkit             1
+8    colord             1
+9  whoopsie             1
+
+Всего памяти используется: 88.7%
+Всего CPU используется: 140.1%
+Больше всего памяти использует: /snap/pycharm-commun
+Больше всего CPU использует: python main.py
+
